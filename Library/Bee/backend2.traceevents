@@ -1,0 +1,660 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1734283070596012, "dur":73, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734283070596193, "dur":59918, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734283070656128, "dur":113, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734283070656293, "dur":291, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734283070656662, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1734283070656795, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1734283070656878, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1734283070656936, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657013, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657104, "dur":117, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657230, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657325, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657403, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657481, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657567, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657641, "dur":80, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657803, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657862, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"UnityLinker C:/Users/aleks/Saved Games/Shutan/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":0, "ts":1734283070657975, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/8242407536885602570.rsp" }}
+,{ "pid":12345, "tid":0, "ts":1734283070658259, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070658488, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070658553, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070658644, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070658711, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070658798, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070658863, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070658937, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070659117, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070659196, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070659287, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070659362, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070659483, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070659551, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070659626, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070659945, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660014, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660134, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660191, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660269, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660369, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660501, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660617, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660681, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660814, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660885, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070660968, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661082, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661183, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661289, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661359, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661445, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661530, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661614, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661741, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661817, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070661901, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662014, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662132, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662200, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662493, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662569, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662657, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662769, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662841, "dur":77, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070662926, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663019, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663086, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663164, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663239, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663354, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663441, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663547, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663735, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663820, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663885, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070663954, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664126, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664241, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664327, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664401, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664518, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664634, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664746, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664893, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070664957, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665116, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665237, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665295, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665373, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665490, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665604, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665697, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665768, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665849, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1734283070665908, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan.exe" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666053, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666171, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666244, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666321, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666397, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666518, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666592, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666678, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666762, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666831, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666895, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1734283070666995, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1734283070667064, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1734283070667230, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1734283070667341, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1734283070667418, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1734283070667527, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1734283070656641, "dur":10954, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734283070667597, "dur":6125396, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734283076792995, "dur":138, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734283076793321, "dur":3265, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1734283070657394, "dur":10240, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283070667640, "dur":21888, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283070689547, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/8242407536885602570.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1734283070689650, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283070689712, "dur":54, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/8242407536885602570.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1734283070690514, "dur":135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283070690656, "dur":757, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283070691425, "dur":303, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283070691739, "dur":1053, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283070692805, "dur":706, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283070693521, "dur":197, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283070693722, "dur":471, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283070695665, "dur":139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\artifacts\\UnityLinkerInputs\\TypesInScenes.xml" }}
+,{ "pid":12345, "tid":1, "ts":1734283070695808, "dur":318, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\aleks\\Saved Games\\Shutan\\Library\\Bee\\artifacts\\UnityLinkerInputs\\EditorToUnityLinkerData.json" }}
+,{ "pid":12345, "tid":1, "ts":1734283070689768, "dur":8378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/aleks/Saved Games/Shutan/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1734283070730041, "dur":508, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283070868118, "dur":911112, "ph":"X", "name": "UnityLinker",  "args": { "detail":"C:/Users/aleks/Saved Games/Shutan/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1734283071823291, "dur":84922, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283071823211, "dur":85004, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283071908231, "dur":212, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283071917287, "dur":341, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283071915872, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283071917874, "dur":219030, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283071917785, "dur":219122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072136921, "dur":246, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283072137176, "dur":18510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072155747, "dur":148781, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072155690, "dur":148840, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072304544, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283072304704, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072306711, "dur":199298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072306647, "dur":199364, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072506025, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283072506181, "dur":2096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072508424, "dur":575284, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283072508281, "dur":575429, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073083750, "dur":4353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073088160, "dur":191257, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073088107, "dur":191312, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073279433, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283073279589, "dur":2095, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073281777, "dur":472409, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073281688, "dur":472500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073754228, "dur":2586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073756906, "dur":98175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073756818, "dur":98272, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073855126, "dur":1974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073857182, "dur":88375, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073857104, "dur":88455, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073945575, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283073945729, "dur":2041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073947860, "dur":161854, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283073947774, "dur":161943, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074109733, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283074109890, "dur":2201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074112169, "dur":84478, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074112096, "dur":84554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074196665, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283074196827, "dur":1924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074198906, "dur":126332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074198766, "dur":126474, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074325264, "dur":127, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283074325401, "dur":4529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074330079, "dur":92744, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074329934, "dur":92892, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074422840, "dur":311, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283074423160, "dur":15615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074438948, "dur":260021, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074438779, "dur":260192, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074699049, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074700832, "dur":65569, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074700773, "dur":65630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074766418, "dur":141, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283074766596, "dur":1928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074768622, "dur":109494, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074768540, "dur":109578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074878171, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283074878273, "dur":27684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074906021, "dur":248196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283074905962, "dur":248259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075154276, "dur":151, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283075154437, "dur":9578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075164176, "dur":104763, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075164031, "dur":104910, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075268979, "dur":2038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075271120, "dur":97540, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075271032, "dur":97630, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075368677, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283075368834, "dur":1879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075370897, "dur":91546, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075370738, "dur":91708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075462485, "dur":1795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075464366, "dur":50934, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075464284, "dur":51018, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075515343, "dur":1983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075517448, "dur":146673, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075517330, "dur":146793, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075664162, "dur":2132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CommandStateObserverModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075666440, "dur":108765, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075666298, "dur":108909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075775221, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283075775381, "dur":1925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075777427, "dur":234075, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283075777321, "dur":234183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076011544, "dur":4628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076016326, "dur":285967, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076016187, "dur":286108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076302329, "dur":4041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076306440, "dur":70510, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076306374, "dur":70578, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076376967, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283076377127, "dur":2093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076379377, "dur":91234, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076379236, "dur":91377, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076470655, "dur":3104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076473898, "dur":71248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076473775, "dur":71373, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076545162, "dur":228, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283076545398, "dur":1782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076547340, "dur":64131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076547195, "dur":64279, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076611488, "dur":143, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1734283076611642, "dur":2189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1734283076613845, "dur":179104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070657680, "dur":9984, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070667668, "dur":1194, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070668863, "dur":1056, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070670654, "dur":594, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2023.2.20f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Memory.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283070669920, "dur":1533, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070671453, "dur":993, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070672447, "dur":952, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070673400, "dur":989, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070674390, "dur":990, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070675381, "dur":998, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070676380, "dur":1015, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070677396, "dur":1005, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070678402, "dur":1422, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070679825, "dur":673, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070680499, "dur":9067, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070689566, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1734283070696815, "dur":147, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070691965, "dur":5074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":2, "ts":1734283070697115, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1734283070700225, "dur":149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070697475, "dur":2992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1734283070700549, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1734283070700632, "dur":91, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070703949, "dur":159, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070701053, "dur":3169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1734283070704306, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1734283070717478, "dur":178, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070704511, "dur":13219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1734283070717822, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1734283070718086, "dur":2410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1734283070720582, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1734283070720655, "dur":116, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070721081, "dur":1497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1734283070722647, "dur":74, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1734283070723151, "dur":13317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1734283070736592, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan.exe" }}
+,{ "pid":12345, "tid":2, "ts":1734283070750799, "dur":389, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070736690, "dur":14546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan.exe" }}
+,{ "pid":12345, "tid":2, "ts":1734283070751379, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1734283070752117, "dur":4883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1734283070757071, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283070757198, "dur":19964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283070777295, "dur":5761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1734283070783158, "dur":2019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1734283070785333, "dur":1666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1734283070805490, "dur":1365, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283070787184, "dur":19785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1734283070807061, "dur":1016155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283071823302, "dur":168932, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283071823216, "dur":169020, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283071994303, "dur":244, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283071992566, "dur":2247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283071994923, "dur":102093, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283071994817, "dur":102203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072097036, "dur":230, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283072097275, "dur":1888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072099236, "dur":54620, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072099167, "dur":54691, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072153872, "dur":129, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283072154010, "dur":26996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072181103, "dur":223146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072181010, "dur":223252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072404275, "dur":143, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283072404428, "dur":2118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072406700, "dur":438746, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072406550, "dur":438900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072845465, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283072845624, "dur":1962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072847690, "dur":173384, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283072847590, "dur":173487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073021117, "dur":2080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073023321, "dur":557051, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073023212, "dur":557162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073580388, "dur":141, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283073580546, "dur":2527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073583238, "dur":115273, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073583089, "dur":115424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073698528, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283073698683, "dur":1888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073700734, "dur":80885, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073700585, "dur":81036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073781638, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283073781792, "dur":1982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073783911, "dur":319473, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283073783777, "dur":319609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074103401, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283074103573, "dur":2684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074106416, "dur":111195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074106260, "dur":111353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074217666, "dur":145, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283074217820, "dur":2012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074219991, "dur":141833, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074219848, "dur":141979, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074361869, "dur":2109, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074364052, "dur":203692, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074363982, "dur":203765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074567760, "dur":166, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283074567936, "dur":1985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074570038, "dur":57635, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074569925, "dur":57751, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074627714, "dur":1725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074629540, "dur":149685, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074629457, "dur":149770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074779268, "dur":1785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074781229, "dur":52437, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074781056, "dur":52620, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074833710, "dur":1608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074835423, "dur":464012, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283074835336, "dur":464101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075299452, "dur":152, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283075299613, "dur":3324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075303016, "dur":60759, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075302944, "dur":60834, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075363864, "dur":2890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075366859, "dur":259349, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075366759, "dur":259452, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075626225, "dur":178, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283075644672, "dur":569, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283075626414, "dur":18894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075645397, "dur":245803, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075645312, "dur":245890, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075891217, "dur":227, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283075902724, "dur":544, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283075891453, "dur":11839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075903372, "dur":1651, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075903296, "dur":1729, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075905037, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283075916416, "dur":571, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283075905123, "dur":11885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075917090, "dur":560291, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283075917011, "dur":560372, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283076477396, "dur":143, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1734283076477548, "dur":14016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283076491626, "dur":65913, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283076491568, "dur":65973, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283076557579, "dur":2265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283076559926, "dur":230953, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283076559849, "dur":231033, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1734283076790921, "dur":1890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283070657779, "dur":9920, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070667700, "dur":1214, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070668915, "dur":1105, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070670021, "dur":1144, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070671165, "dur":943, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070672109, "dur":980, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070673090, "dur":956, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070674047, "dur":1007, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070675055, "dur":973, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070676028, "dur":1047, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070677075, "dur":1003, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070678079, "dur":1019, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070679099, "dur":1226, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070680325, "dur":9215, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070689547, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1734283070691644, "dur":848, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1734283070692510, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734283070692663, "dur":2598, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1734283070695265, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1734283070698303, "dur":235, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player94b5c37a-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1734283070692500, "dur":6226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734283070701246, "dur":301, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283070702151, "dur":404465, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734283071126049, "dur":110, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734283071126013, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734283071126204, "dur":1625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1734283071127833, "dur":695381, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283071823303, "dur":358451, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283071823215, "dur":358541, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072181770, "dur":345, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283072182125, "dur":2117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072184363, "dur":88937, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072184246, "dur":89056, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072276228, "dur":565, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283072273341, "dur":3475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072276932, "dur":73829, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072276820, "dur":73944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072350800, "dur":2346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072353283, "dur":407169, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072353162, "dur":407293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072760469, "dur":246, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283072765527, "dur":556, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283072760724, "dur":5381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072766199, "dur":269979, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283072766108, "dur":270072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283073036195, "dur":245, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283073048687, "dur":568, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283073036450, "dur":12829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283073049375, "dur":591840, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283073049282, "dur":591935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283073641272, "dur":222, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283073648147, "dur":554, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283073641504, "dur":7222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283073648837, "dur":363975, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283073648729, "dur":364086, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074012829, "dur":224, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283074021043, "dur":575, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283074013063, "dur":8625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074021800, "dur":116370, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074021692, "dur":116480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074138196, "dur":253, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283074146601, "dur":568, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283074138458, "dur":8735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074147293, "dur":184534, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074147196, "dur":184633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074331870, "dur":2260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074334290, "dur":66182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074334146, "dur":66328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074400566, "dur":1739, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074402445, "dur":219290, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074402309, "dur":219428, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074621776, "dur":1917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074623757, "dur":184589, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074623697, "dur":184652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074808364, "dur":158, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283074808531, "dur":1981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GraphToolsFoundationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074810659, "dur":170322, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074810517, "dur":170467, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074981000, "dur":221, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283074981231, "dur":5331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074986634, "dur":64524, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283074986566, "dur":64594, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283075051174, "dur":337, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283075065050, "dur":572, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283075051520, "dur":14125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283075065751, "dur":439836, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283075065649, "dur":439941, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283075505605, "dur":242, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283075505857, "dur":4284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283075510317, "dur":606424, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283075510145, "dur":606598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076116780, "dur":2061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076118914, "dur":278500, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076118845, "dur":278572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076397457, "dur":2172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076399758, "dur":74379, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076399645, "dur":74493, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076474197, "dur":1738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076476110, "dur":66665, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076475949, "dur":66829, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076542792, "dur":153, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1734283076542973, "dur":13486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076556606, "dur":75393, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076556464, "dur":75545, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076632050, "dur":2904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1734283076634965, "dur":157917, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070657650, "dur":10002, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070667657, "dur":1162, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070668820, "dur":1160, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070669981, "dur":1180, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070671161, "dur":985, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070672147, "dur":1007, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070673155, "dur":1036, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070674192, "dur":990, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070675183, "dur":993, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070676176, "dur":1118, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070677295, "dur":1058, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070678353, "dur":1497, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070679850, "dur":9714, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070689574, "dur":84, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070689664, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1734283070691472, "dur":90, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070691850, "dur":5602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/app.info" }}
+,{ "pid":12345, "tid":4, "ts":1734283070697456, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1734283070697568, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070697660, "dur":3693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1734283070701755, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1734283070701846, "dur":174, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070704243, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070702110, "dur":2254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1734283070704436, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1734283070709309, "dur":157, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070704670, "dur":4849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1734283070709641, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1734283070709722, "dur":91, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070713750, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1734283070715531, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1734283070715987, "dur":2620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1734283070718702, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1734283070718803, "dur":1546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1734283070720483, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1734283070720690, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1734283070722733, "dur":194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1734283070723180, "dur":1880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1734283070725289, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1734283070725503, "dur":140, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070726135, "dur":2287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1734283070728486, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1734283070728588, "dur":2075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1734283070730743, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1734283070731355, "dur":1582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1734283070733002, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283070733394, "dur":1864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283070735338, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283070754755, "dur":1239, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283070735595, "dur":20424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283070756194, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283070763734, "dur":7746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283070771662, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1734283070771795, "dur":2860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1734283070774911, "dur":19848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1734283070794857, "dur":1631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/level0" }}
+,{ "pid":12345, "tid":4, "ts":1734283070796589, "dur":3600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1734283070800295, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1734283070802214, "dur":1619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1734283070803898, "dur":1019323, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283071823291, "dur":181531, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283071823226, "dur":181598, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072004863, "dur":5047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072010056, "dur":57117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072009914, "dur":57261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072067191, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283072067346, "dur":1947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072069378, "dur":83616, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072069298, "dur":83698, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072153039, "dur":3075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072156225, "dur":141040, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072156120, "dur":141147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072297280, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283072297450, "dur":2039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072299550, "dur":54009, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072299494, "dur":54067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072353573, "dur":107, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283072353692, "dur":1925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072355711, "dur":288406, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072355622, "dur":288498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072644160, "dur":2225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072646466, "dur":170146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072646390, "dur":170224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072816653, "dur":2083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072818805, "dur":674035, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283072818740, "dur":674102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283073492881, "dur":4255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283073497290, "dur":353036, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283073497140, "dur":353188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283073850369, "dur":2608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283073853073, "dur":411710, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283073852981, "dur":411804, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074264800, "dur":163, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283074264975, "dur":3422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074268491, "dur":111274, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074268413, "dur":111355, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074379782, "dur":166, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283074379960, "dur":2122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074382261, "dur":178268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074382096, "dur":178435, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074560552, "dur":229, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283074560796, "dur":4521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074565479, "dur":253856, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074565332, "dur":254006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074819352, "dur":242, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283074833257, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283074819604, "dur":13771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074833506, "dur":86332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074833398, "dur":86442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074919856, "dur":250, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283074935241, "dur":562, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283074920115, "dur":15721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074935926, "dur":111617, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283074935840, "dur":111705, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075047560, "dur":233, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283075051269, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283075047803, "dur":3587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075051466, "dur":67931, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075051393, "dur":68006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075119414, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283075119489, "dur":1753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075121391, "dur":56137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075121246, "dur":56284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075177545, "dur":149, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283075177706, "dur":2147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075179934, "dur":67221, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075179858, "dur":67299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075247171, "dur":171, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283075247351, "dur":2099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075249513, "dur":71555, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075249454, "dur":71616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075321084, "dur":147, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283075321242, "dur":9358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075330676, "dur":65146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075330604, "dur":65221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075395864, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075398061, "dur":131579, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075397940, "dur":131703, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075529682, "dur":14034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075543856, "dur":155232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075543731, "dur":155359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075699105, "dur":159, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283075699275, "dur":2008, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075701425, "dur":156006, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075701299, "dur":156135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075857519, "dur":1821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075859497, "dur":190372, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283075859356, "dur":190515, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076049909, "dur":2016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076051995, "dur":192626, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076051929, "dur":192694, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076244636, "dur":123, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283076244769, "dur":2011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076246860, "dur":55291, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076246785, "dur":55368, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076302167, "dur":147, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283076302325, "dur":4479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076306927, "dur":58464, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076306808, "dur":58585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076365434, "dur":2105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076367613, "dur":78175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076367543, "dur":78247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076445805, "dur":142, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283076445959, "dur":2157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076448221, "dur":114582, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076448120, "dur":114686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076562822, "dur":245, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1734283076563076, "dur":2145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076565375, "dur":117957, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076565225, "dur":118110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076683403, "dur":1848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Saved Games/Builds/aboba/Shutan_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1734283076685255, "dur":107589, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1734283076803608, "dur":4430, "ph":"X", "name": "ProfilerWriteOutput" }
+,
