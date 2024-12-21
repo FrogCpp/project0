@@ -5,14 +5,12 @@ using UnityEngine;
 public class JumpReader : MonoBehaviour
 {
     public bool touch;
-    private void OnTriggerEnter(Collider other)
+    private void OnTriggerStay(Collider other)
     {
-        if (other.tag == "Buildings")
-            touch = true;
+        touch = true;
     }
     private void OnTriggerExit(Collider other)
     {
-        if (other.tag == "Buildings")
-            touch = false;
+        touch = false;
     }
 }
