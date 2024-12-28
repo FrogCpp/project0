@@ -13,7 +13,6 @@ public class RagdollController : MonoBehaviour
         animator = GetComponent<Animator>();
         foreach (Rigidbody i in AllRagdollElements){
             i.isKinematic = true;
-            i.useGravity = false;
         }
     }
     void Update()
@@ -23,7 +22,6 @@ public class RagdollController : MonoBehaviour
             foreach (Rigidbody i in AllRagdollElements)
             {
                 i.isKinematic = false;
-                i.useGravity = true;
             }
             Walking.enabled = false;
             animator.enabled = false;

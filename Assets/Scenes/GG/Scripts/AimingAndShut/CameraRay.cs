@@ -19,7 +19,6 @@ public class CameraRay : MonoBehaviour
         Debug.DrawRay(transform.position, SpreadGener(_rayForward, SpreadRadius) * Distance, Color.red);
         if (Physics.Raycast(_ray, out RaycastHit collid, Distance))
         {
-            Debug.Log(collid.collider.gameObject.name);
             TargetToAim.transform.position = collid.point;
         }
         else

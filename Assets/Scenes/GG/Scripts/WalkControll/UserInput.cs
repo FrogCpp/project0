@@ -6,7 +6,7 @@ using UnityEngine;
 public class UserInput : MonoBehaviour
 {
     public float Vert = 0, Hori = 0, MouseHori, MouseVert, Shift, Jump;
-    public bool OnAir = false;
+    public bool OnAir = false, Fire;
     [SerializeField] private float kWalk;
     [SerializeField] private JumpReader Trigg;
     void Update()
@@ -23,6 +23,7 @@ public class UserInput : MonoBehaviour
         MouseVert = Input.GetAxis("Mouse Y");
         MouseHori = Input.GetAxis("Mouse X");
         Jump = Input.GetAxis("Jump");
+        Fire = Input.GetAxis("Fire1") != 0f;
         OnAir = !Trigg.touch;
     }
 }
