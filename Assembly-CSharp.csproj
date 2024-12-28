@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\Walking.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\JumpReader.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\Animations.cs" />
+    <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\RagdollController.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\UserInput.cs" />
   </ItemGroup>
   <ItemGroup>

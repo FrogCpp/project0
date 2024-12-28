@@ -5,12 +5,21 @@ using UnityEngine;
 public class JumpReader : MonoBehaviour
 {
     public bool touch;
+    [SerializeField] private Collider[] Ignore;
     private void OnTriggerStay(Collider other)
     {
-        touch = true;
+        bool a = true;
+        foreach (Collider c in Ignore)
+            a = other != c;
+        if (a)
+            touch = true;
     }
     private void OnTriggerExit(Collider other)
     {
-        touch = false;
+        bool a = true;
+        foreach (Collider c in Ignore)
+            a = other != c;
+        if (a)
+            touch = false;
     }
 }

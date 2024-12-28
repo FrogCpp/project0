@@ -390,6 +390,7 @@
 "Assets/Scenes/GG/Scripts/WalkControll/Animations.cs"
 "Assets/Scenes/GG/Scripts/WalkControll/CameraController.cs"
 "Assets/Scenes/GG/Scripts/WalkControll/JumpReader.cs"
+"Assets/Scenes/GG/Scripts/WalkControll/RagdollController.cs"
 "Assets/Scenes/GG/Scripts/WalkControll/UserInput.cs"
 "Assets/Scenes/GG/Scripts/WalkControll/Walking.cs"
 -langversion:9.0
