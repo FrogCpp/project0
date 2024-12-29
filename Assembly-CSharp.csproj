@@ -64,11 +64,12 @@
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\CameraController.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\AimingAndShut\CameraRay.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\Walking.cs" />
+    <Compile Include="Assets\Scenes\GG\Scripts\AimingAndShut\Damage.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\AimingAndShut\Shuting.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\JumpReader.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\Animations.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\RagdollController.cs" />
-    <Compile Include="Assets\Scenes\GG\Scripts\AimingAndShut\DamageForBuildin.cs" />
+    <Compile Include="Assets\Scenes\GG\Scripts\AimingAndShut\RecoilController.cs" />
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\UserInput.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -1075,20 +1076,20 @@
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.State.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
+    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
+      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.Mathematics">
-      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
+    <Reference Include="Unity.VisualScripting.State.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.Editor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.TestTools.CodeCoverage.Editor.OpenCover.Model">
-      <HintPath>Library\ScriptAssemblies\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.dll</HintPath>
+    <Reference Include="Unity.Mathematics">
+      <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.SettingsProvider.Editor">

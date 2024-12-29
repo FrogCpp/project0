@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class UserInput : MonoBehaviour
 {
-    public float Vert = 0, Hori = 0, MouseHori, MouseVert, Shift, Jump;
+    public float Vert = 0, Hori = 0, MouseHori, MouseVert, Shift, Jump, Recoil;
     public bool OnAir = false, Fire;
     [SerializeField] private float kWalk;
     [SerializeField] private JumpReader Trigg;

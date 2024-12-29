@@ -5,12 +5,15 @@ using UnityEngine;
 public class RagdollController : MonoBehaviour
 {
     public bool ActivateRagdoll;
-    private Animator animator;
+    private Animator _animator;
     [SerializeField] Rigidbody[] AllRagdollElements;
-    [SerializeField] Walking Walking;
+    private Walking _walking;
+    private UserInput _userInput;
     void Start()
     {
-        animator = GetComponent<Animator>();
+        _animator = GetComponent<Animator>();
+        _walking = GetComponent<Walking>();
+        _userInput = GetComponent<UserInput>();
         foreach (Rigidbody i in AllRagdollElements){
             i.isKinematic = true;
         }
@@ -23,8 +26,9 @@ public class RagdollController : MonoBehaviour
             {
                 i.isKinematic = false;
             }
-            Walking.enabled = false;
-            animator.enabled = false;
+            _walking.enabled = false;
+            _animator.enabled = false;
+            _userInput.enabled = false;
         }
     }
 }
