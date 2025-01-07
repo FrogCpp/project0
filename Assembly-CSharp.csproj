@@ -73,7 +73,8 @@
     <Compile Include="Assets\Scenes\GG\Scripts\WalkControll\UserInput.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Industrial Props\ReadMe.txt" />
+    <None Include="Assets\Scenes\Scene\LowPoly-House-Construction-Site-By-Majadroid\INFO.txt" />
+    <None Include="Assets\Scenes\Scene\Industrial Props\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
